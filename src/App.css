@@ -1,0 +1,14 @@
+@import './normalize';
+
+.App {
+  text-align: start;
+  margin: 20px;
+  background-color: white;
+  color: black;
+}
+
+.errors {
+  color: red;
+  display: flex;
+  justify-content: center;
+}

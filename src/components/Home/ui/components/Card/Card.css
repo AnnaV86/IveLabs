@@ -1,0 +1,31 @@
+.container {
+  width: 230px;
+  height: auto;
+  border: 2px solid gray;
+  border-radius: 5px;
+  padding: 10px;
+  flex-grow: 1;
+}
+
+.title {
+  padding-bottom: 10px;
+  border-bottom: 1px solid gray;
+  color: blueviolet;
+  margin: 0;
+  font-size: 16px;
+}
+
+.title_card {
+  margin: 10px 0;
+  font-size: 16px;
+}
+
+.field-wrapper {
+  display: flex;
+  font-size: 14px;
+  gap: 5px;
+}
+
+p {
+  margin: 0;
+}

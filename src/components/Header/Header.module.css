@@ -1,0 +1,23 @@
+.header {
+  height: 30px;
+  background-color: rgb(185, 185, 185);
+  padding: 10px 20px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.item {
+  color: white;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.item:hover {
+  opacity: 0.5;
+}
+
+.active {
+  color: blueviolet;
+  text-decoration: none;
+}
